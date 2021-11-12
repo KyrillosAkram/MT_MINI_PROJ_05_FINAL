@@ -7,7 +7,7 @@ then update 2x16 lcd with readable information and send command and data to the 
 # Project architecture
 
 
-`
+<pre>
 MT_MINI_PROJ_05_FINAL
 	├─ protues_simulation					( visual simulation directory			)
 	│	├─ proteus.pdsprj				( with full debuging information require V8	)
@@ -37,5 +37,4 @@ MT_MINI_PROJ_05_FINAL
 			...
 			├─ driverxx.c
 			└─ driverxx.h
-
-`
+<pre>
